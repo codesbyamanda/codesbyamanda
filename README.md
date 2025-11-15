@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://i.pinimg.com/1200x/1e/cf/d8/1ecfd8d8a67d60aed9330205805785ef.jpg)" alt="codesbyamanda mascot" />
+  <img align="center" height="150" src="https://i.pinimg.com/1200x/1e/cf/d8/1ecfd8d8a67d60aed9330205805785ef.jpg" alt="codesbyamanda mascot" />
 </div>
 
 <div align="center">
