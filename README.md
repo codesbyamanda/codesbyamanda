@@ -81,10 +81,8 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
 
 
-<br><br><br>
-
-
-<br><br>
+<br>
+<br>
 
 
 ## Sobre Mim  
