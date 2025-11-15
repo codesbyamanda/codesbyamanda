@@ -3,8 +3,8 @@
 <br>
 
 <div align="center">
-  <!-- Mascote (troque se quiser) -->
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" alt="codesbyamanda mascot" />
+  
+  <img align="center" height="150" src="[https://imgur.com/aXIQLp8.png](https://i.pinimg.com/1200x/1e/cf/d8/1ecfd8d8a67d60aed9330205805785ef.jpg)" alt="codesbyamanda mascot" />
 </div>
 
 <div align="center">
@@ -31,15 +31,11 @@
 <br>
 
 
+Sou a Amanda, **formada em Análise e Desenvolvimento de Sistemas**, com **especialização em Full Stack**. Atualmente curso duas pós-graduações: **Desenvolvimento Front-end** e **UX/UI Design**, áreas que refletem minha paixão por unir estética e tecnologia.
 
-<!-- # Amanda Ribeiro — *codesbyamanda* -->
-<!-- 
-**`Front-end Developer • UI/UX Designer`** -->
-
-Sou a Amanda, desenvolvedora front-end e designer UI/UX apaixonada por criar **interfaces bonitas, intuitivas e funcionais**.  
 Atualmente estudo **React** e foco em transformar ideias em experiências visuais que conectam pessoas.
 
-Tenho experiência com design gráfico, identidades visuais, criação de interfaces e desenvolvimento web — unindo **estética + código** como minha assinatura.
+Tenho experiência com design gráfico, identidades visuais, criação de interfaces e desenvolvimento web — unindo estética + código como minha assinatura.
 
 
 
@@ -51,7 +47,7 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
       src="https://custom-icon-badges.demolab.com/badge/-Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/amanda-ribeiro">
+  <a href="https://www.linkedin.com/in/codesbyamanda">
     <img alt="LinkedIn" title="LinkedIn" 
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -80,10 +76,8 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
 
-
 <br>
 <br>
-
 
 ## Sobre Mim  
 
