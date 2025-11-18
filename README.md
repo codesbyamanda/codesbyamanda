@@ -33,8 +33,6 @@
 
 Sou a Amanda, **formada em Análise e Desenvolvimento de Sistemas**, com **especialização em Full Stack**. Atualmente curso duas pós-graduações: **Desenvolvimento Front-end** e **UX/UI Design**, áreas que refletem minha paixão por unir estética e tecnologia.
 
-Atualmente estudo **React** e foco em transformar ideias em experiências visuais que conectam pessoas.
-
 Tenho experiência com design gráfico, identidades visuais, criação de interfaces e desenvolvimento web — unindo estética + código como minha assinatura.
 
 
