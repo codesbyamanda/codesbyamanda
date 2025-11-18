@@ -57,7 +57,7 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
       src="https://custom-icon-badges.demolab.com/badge/-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
   <a href="https://codesbyamanda.vercel.app/">
-    <img alt="Portfolio" title="Portfolio"
+    <img alt="Vercel" title="Portfolio"
       src="https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-9C6BFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
