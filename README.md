@@ -106,11 +106,11 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
+<!-- <p align="left">
   <img height="180"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codesbyamanda&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyamanda&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=0D0D24&title_color=C9A7FF&text_color=ffffff&border_color=9C6BFF"
   />
-</p>
+</p> -->
 
 
 
