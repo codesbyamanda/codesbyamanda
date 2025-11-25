@@ -104,7 +104,7 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 
 
 
-## 📊 Estatísticas do GitHub
+<!-- ## 📊 Estatísticas do GitHub -->
 
 <!-- <p align="left">
   <img height="180"
