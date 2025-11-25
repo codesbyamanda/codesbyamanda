@@ -108,9 +108,10 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 
 <p align="left">
   <img height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyamanda&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=1A122B&title_color=FF9ECF&text_color=E3D7FF&icon_color=C9A7FF&border_color=FF9ECF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyamanda&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=0D0D24&title_color=C9A7FF&text_color=ffffff&border_color=9C6BFF"
   />
 </p>
+
 
 
 <div style="margin-top: 50px;"></div>
