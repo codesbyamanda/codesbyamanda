@@ -10,13 +10,13 @@
 <div align="center">
   <samp>
       <br>
-      Olá, amigos! Eu sou <b>Amanda Ribeiro</b> 
+      Olá, a todos! Eu sou <b>Amanda Ribeiro</b> 
   </samp>
 </div>
 
 <div align="center" width="100%">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A7FF&width=900&size=22&center=true&lines=Seja+bem-vindo+ao+meu+perfil!;Sou+Desenvolvedora+Front-end;UI%2FUX+Designer;Freelancer;Apaixonada+por+interfaces+bonitas+e+funcionais;Estudando+React+e+Design+Systems;Obrigada+por+estar+aqui+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A7FF&width=900&size=22&center=true&lines=Seja+bem-vindo+ao+meu+perfil!;Sou+Desenvolvedora+Front-end;UI%2FUX+Designer;Freelancer;Apaixonada+por+interfaces+bonitas+e+funcionais;Estudando+React+e+Next.js;Obrigada+por+estar+aqui+%E2%9C%A8"
     alt="Typing SVG"
   />
 </div>
@@ -31,9 +31,9 @@
 <br>
 
 
-Sou a Amanda, **formada em Análise e Desenvolvimento de Sistemas**, com **especialização em Full Stack**. Atualmente curso duas pós-graduações: **Desenvolvimento Front-end** e **UX/UI Design**, áreas que refletem minha paixão por unir estética e tecnologia.
+Sou a Amanda, formada em **Análise e Desenvolvimento de Sistemas**, com especialização em **Full Stack**. Atualmente curso duas pós-graduações: **Desenvolvimento Front-end** e **UX/UI Design**. Áreas que escolhi justamente por gostar de unir código, visual e experiência.
 
-Tenho experiência com design gráfico, identidades visuais, criação de interfaces e desenvolvimento web — unindo estética + código como minha assinatura.
+Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, acessíveis e bem pensadas, usando tecnologias como **React, Next.js e TypeScript**. Gosto de **transformar ideias e layouts em interfaces funcionais**, cuidando tanto da parte visual quanto da implementação.
 
 
 
@@ -69,10 +69,10 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
@@ -83,24 +83,23 @@ Tenho experiência com design gráfico, identidades visuais, criação de interf
 
 ## Sobre Mim  
 
-✨ Front-end focada em criar interfaces bonitas, modernas e funcionais  
-✨ Designer UI/UX que ama estética e experiências leves  
-✨ Estudando **React** + **Design Systems**  
-✨ Apaixonada por design   
-✨ Transformo ideias em telas com personalidade própria  
+✨ Desenvolvedora Front-end com foco em interfaces modernas, funcionais e bem estruturadas
+✨ UI/UX Designer com olhar atento para estética e experiência do usuário
+✨ Estudando React e Design Systems, aplicando conceitos em projetos reais
+✨ Apaixonada por design e experiências digitais bem pensadas
+✨ Transformo ideias em interfaces com identidade e propósito
 
 
 
 ## Serviços que Ofereço (Freelancer)
 
-✨ Criação de Interfaces UI/UX (Web & Mobile)  
-🎨 Identidade Visual + Branding  
-💻 Desenvolvimento Front-end (React + HTML/CSS/JS)  
-🔧 Landing Pages Conversacionais  
-🧩 Design System / Componentização  
-📱 Protótipos no Figma  
+✨ Criação de interfaces UI/UX para web e mobile
+💻 Desenvolvimento Front-end
+🔧 Landing pages focadas em conversão e experiência
+🧩 Design Systems e componentização de interfaces
+📱 Protótipos e fluxos interativos no Figma 
 
-> *Meu estilo é clean, moderno e criativo, sempre com um toque de estética e boa experiência do usuário.*
+> *Meu estilo é clean, moderno e criativo, sempre priorizando estética, usabilidade e uma boa experiência do usuário.*
 
 
 
