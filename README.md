@@ -109,7 +109,8 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
 
 > *Meu estilo é clean, moderno e criativo, sempre priorizando estética, usabilidade e uma boa experiência do usuário.*
 
-
+## Pequena Observação 
+Grande parte dos meus projetos profissionais e freelances utiliza integrações externas e dados sensíveis, por isso não ficam públicos aqui. Os repositórios disponíveis representam estudos, experimentos e projetos demonstrativos.
 
 <!-- ## 📊 Estatísticas do GitHub -->
 
