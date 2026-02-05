@@ -84,9 +84,13 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
 ## Sobre Mim  
 
 ✨ Desenvolvedora Front-end com foco em interfaces modernas, funcionais e bem estruturadas
+<br>
 ✨ UI/UX Designer com olhar atento para estética e experiência do usuário
+<br>
 ✨ Estudando React e Design Systems, aplicando conceitos em projetos reais
+<br>
 ✨ Apaixonada por design e experiências digitais bem pensadas
+<br>
 ✨ Transformo ideias em interfaces com identidade e propósito
 
 
@@ -94,9 +98,13 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
 ## Serviços que Ofereço (Freelancer)
 
 ✨ Criação de interfaces UI/UX para web e mobile
+<br>
 💻 Desenvolvimento Front-end
+<br>
 🔧 Landing pages focadas em conversão e experiência
+<br>
 🧩 Design Systems e componentização de interfaces
+<br>
 📱 Protótipos e fluxos interativos no Figma 
 
 > *Meu estilo é clean, moderno e criativo, sempre priorizando estética, usabilidade e uma boa experiência do usuário.*
@@ -118,4 +126,4 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
 
 
 
-## ✨ Obrigada por visitar meu perfil!
+## ✨ Obrigada por visitar meu perfil! ✨
