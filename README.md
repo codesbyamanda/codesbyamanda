@@ -112,13 +112,13 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
 ## Pequena Observação 
 Grande parte dos meus projetos profissionais e freelances utiliza integrações externas e dados sensíveis, por isso não ficam públicos aqui. Os repositórios disponíveis representam estudos, experimentos e projetos demonstrativos.
 
-<!-- ## 📊 Estatísticas do GitHub -->
+## 📊 Estatísticas do GitHub -->
 
-<!-- <p align="left">
+<p align="left">
   <img height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbyamanda&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=0D0D24&title_color=C9A7FF&text_color=ffffff&border_color=9C6BFF"
   />
-</p> -->
+</p> 
 
 
 
