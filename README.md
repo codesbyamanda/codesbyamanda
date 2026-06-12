@@ -3,20 +3,19 @@
 <br>
 
 <div align="center">
-  
   <img align="center" height="150" src="https://i.pinimg.com/1200x/1e/cf/d8/1ecfd8d8a67d60aed9330205805785ef.jpg" alt="codesbyamanda mascot" />
 </div>
 
 <div align="center">
   <samp>
-      <br>
-      Olá, a todos! Eu sou <b>Amanda Ribeiro</b> 
+    <br>
+    Olá! Eu sou <b>Amanda Ribeiro</b>
   </samp>
 </div>
 
 <div align="center" width="100%">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A7FF&width=900&size=22&center=true&lines=Seja+bem-vindo+ao+meu+perfil!;Sou+Desenvolvedora+Front-end;UI%2FUX+Designer;Freelancer;Apaixonada+por+interfaces+bonitas+e+funcionais;Estudando+React+e+Next.js;Obrigada+por+estar+aqui+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A7FF&width=900&size=22&center=true&lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedora+Front-end;React+%7C+Next.js+%7C+TypeScript;Dashboards+e+aplica%C3%A7%C3%B5es+web;Interfaces+responsivas+e+funcionais;Produto%2C+requisitos+e+experi%C3%AAncia+do+usu%C3%A1rio;Obrigada+por+estar+aqui+%E2%9C%A8"
     alt="Typing SVG"
   />
 </div>
@@ -30,12 +29,13 @@
 <br>
 <br>
 
+Sou a **Amanda Ribeiro**, Desenvolvedora Front-end com formação em **Análise e Desenvolvimento de Sistemas**, especialização em **Desenvolvimento Full Stack** e pós-graduação em andamento em **Desenvolvimento Front-end**.
 
-Sou a Amanda, formada em **Análise e Desenvolvimento de Sistemas**, com especialização em **Full Stack**. Atualmente curso duas pós-graduações: **Desenvolvimento Front-end** e **UX/UI Design**. Áreas que escolhi justamente por gostar de unir código, visual e experiência.
+Atuo na construção de aplicações web, dashboards administrativos e interfaces responsivas utilizando **React, Next.js, TypeScript e Tailwind CSS**. Tenho foco em componentização, organização de código, consumo de APIs REST, estados de interface e boas práticas de experiência do usuário.
 
-Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, acessíveis e bem pensadas, usando tecnologias como **React, Next.js e TypeScript**. Gosto de **transformar ideias e layouts em interfaces funcionais**, cuidando tanto da parte visual quanto da implementação.
+Além da parte técnica, também tenho vivência com **análise de requisitos**, validações, regras de negócio e comunicação com times de desenvolvimento. Isso me ajuda a conectar visão de produto, necessidades do usuário e implementação front-end de forma mais clara e estruturada.
 
-
+<br>
 
 ## Minhas Redes
 
@@ -54,13 +54,14 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
     <img alt="TikTok" title="TikTok" 
       src="https://custom-icon-badges.demolab.com/badge/-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
+
   <a href="https://codesbyamanda.vercel.app/">
-    <img alt="Vercel" title="Portfolio"
+    <img alt="Portfólio" title="Portfólio"
       src="https://custom-icon-badges.demolab.com/badge/-Portf%C3%B3lio-9C6BFF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
-
+<br>
 
 ## Linguagens e Tecnologias
 
@@ -69,55 +70,82 @@ Trabalho com **desenvolvimento front-end**, criando interfaces web responsivas, 
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
-
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg"/>
 
 <br>
 <br>
-
-## Sobre Mim  
-
-✨ Desenvolvedora Front-end com foco em interfaces modernas, funcionais e bem estruturadas
 <br>
-✨ UI/UX Designer com olhar atento para estética e experiência do usuário
+
+## Sobre mim
+
+✨ Desenvolvedora Front-end com foco em **React, Next.js e TypeScript**  
 <br>
-✨ Estudando React e Design Systems, aplicando conceitos em projetos reais
+✨ Experiência na criação de **dashboards, telas de gestão e aplicações web responsivas**  
 <br>
-✨ Apaixonada por design e experiências digitais bem pensadas
+✨ Atuação com **consumo de APIs REST**, tratamento de estados e componentização de interfaces  
 <br>
-✨ Transformo ideias em interfaces com identidade e propósito
-
-
-
-## Serviços que Ofereço (Freelancer)
-
-✨ Criação de interfaces UI/UX para web e mobile
+✨ Vivência com **análise de requisitos, regras de negócio e visão de produto**  
 <br>
-💻 Desenvolvimento Front-end
+✨ Interesse por interfaces modernas, acessíveis, funcionais e bem estruturadas  
 <br>
-🔧 Landing pages focadas em conversão e experiência
+✨ Gosto de transformar ideias, fluxos e necessidades reais em experiências digitais claras e utilizáveis  
+
 <br>
-🧩 Design Systems e componentização de interfaces
+
+## O que desenvolvo
+
+💻 Aplicações web com React, Next.js e TypeScript  
 <br>
-📱 Protótipos e fluxos interativos no Figma 
+📊 Dashboards administrativos e interfaces de gestão  
+<br>
+🔗 Integrações com APIs REST  
+<br>
+🧩 Componentes reutilizáveis e organização modular  
+<br>
+🎨 Interfaces responsivas com atenção a UI/UX  
+<br>
+📱 Protótipos, fluxos e interfaces no Figma  
 
-> *Meu estilo é clean, moderno e criativo, sempre priorizando estética, usabilidade e uma boa experiência do usuário.*
+<br>
 
-## Pequena Observação 
-Grande parte dos meus projetos profissionais e freelances utiliza integrações externas e dados sensíveis, por isso não ficam públicos aqui. Os repositórios disponíveis representam estudos, experimentos e projetos demonstrativos.
+## Projetos em destaque
 
+### Atlas Admin
 
+Dashboard administrativo simulando uma aplicação SaaS com autenticação, rotas protegidas, métricas, clientes, pedidos e configurações.
 
+**Tecnologias:** Next.js 15, React, TypeScript, Tailwind CSS, Zustand, React Hook Form e Zod.
 
+- Deploy: `https://dashboardadmin-kohl.vercel.app/login`
+- Repositório: `https://github.com/codesbyamanda/atlas-admin`
+
+<br>
+
+### BR Finance Dashboard
+
+Dashboard financeiro para visualização da Taxa SELIC, consumindo dados oficiais da API SGS do Banco Central do Brasil.
+
+**Tecnologias:** Next.js 15, React, TypeScript, Tailwind CSS e TanStack React Query.
+
+- Deploy: `https://financedashboardselic.vercel.app`
+- Repositório: `https://github.com/codesbyamanda/br-finance-dashboard`
+
+<br>
+
+## Pequena observação
+
+Alguns projetos profissionais e freelances envolvem dados sensíveis, integrações externas ou regras de negócio específicas, por isso não ficam públicos aqui.
+
+Os repositórios disponíveis representam projetos demonstrativos, estudos aplicados e simulações desenvolvidas para apresentar minhas habilidades em desenvolvimento front-end, organização de código e construção de interfaces.
+
+<br>
 
 <div style="margin-top: 50px;"></div>
-
-
 
 ## ✨ Obrigada por visitar meu perfil! ✨
