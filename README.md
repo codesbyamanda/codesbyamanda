@@ -40,19 +40,10 @@ Além da parte técnica, também tenho vivência com **análise de requisitos**,
 ## Minhas Redes
 
 <p align="left">
-  <a href="https://www.instagram.com/codesbyamanda">
-    <img alt="Instagram" title="Instagram" 
-      src="https://custom-icon-badges.demolab.com/badge/-Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
 
   <a href="https://www.linkedin.com/in/codesbyamanda">
     <img alt="LinkedIn" title="LinkedIn" 
       src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.tiktok.com/@codesbyamanda">
-    <img alt="TikTok" title="TikTok" 
-      src="https://custom-icon-badges.demolab.com/badge/-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
 
   <a href="https://codesbyamanda.vercel.app/">
