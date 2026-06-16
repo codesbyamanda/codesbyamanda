@@ -15,7 +15,7 @@
 
 <div align="center" width="100%">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A7FF&width=900&size=22&center=true&lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedora+Front-end;React+%7C+Next.js+%7C+TypeScript;Dashboards+e+aplica%C3%A7%C3%B5es+web;Interfaces+responsivas+e+funcionais;Produto%2C+requisitos+e+experi%C3%AAncia+do+usu%C3%A1rio;Obrigada+por+estar+aqui+%E2%9C%A8"
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=C9A7FF&width=900&size=22&center=true&lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedora+Full+Stack;React+%7C+Next.js+%7C+TypeScript;Python+%7C+APIs+REST+%7C+SQL;Dashboards+e+aplica%C3%A7%C3%B5es+web;Produto%2C+requisitos+e+experi%C3%AAncia+do+usu%C3%A1rio;Obrigada+por+estar+aqui+%E2%9C%A8"
     alt="Typing SVG"
   />
 </div>
@@ -29,11 +29,11 @@
 <br>
 <br>
 
-Sou a **Amanda Ribeiro**, Desenvolvedora Front-end com formação em **Análise e Desenvolvimento de Sistemas**, especialização em **Desenvolvimento Full Stack** e pós-graduação em andamento em **Desenvolvimento Front-end**.
+Sou a **Amanda Ribeiro**, Desenvolvedora Full Stack com base sólida em **React, Next.js e TypeScript**, formação em **Análise e Desenvolvimento de Sistemas**, especialização em **Desenvolvimento Full Stack** e pós-graduação em andamento em **Desenvolvimento Front-end**.
 
-Atuo na construção de aplicações web, dashboards administrativos e interfaces responsivas utilizando **React, Next.js, TypeScript e Tailwind CSS**. Tenho foco em componentização, organização de código, consumo de APIs REST, estados de interface e boas práticas de experiência do usuário.
+Atuo na construção de **aplicações web, dashboards e soluções digitais**, com foco em interfaces funcionais, integração com **APIs REST**, organização de código, bancos de dados, componentização e boas práticas de experiência do usuário.
 
-Além da parte técnica, também tenho vivência com **análise de requisitos**, validações, regras de negócio e comunicação com times de desenvolvimento. Isso me ajuda a conectar visão de produto, necessidades do usuário e implementação front-end de forma mais clara e estruturada.
+Além da parte técnica, também tenho vivência com **análise de requisitos**, validações, regras de negócio e comunicação com times de desenvolvimento. Isso me ajuda a conectar visão de produto, necessidades reais do usuário e implementação técnica de forma mais clara e estruturada.
 
 <br>
 
@@ -74,6 +74,9 @@ Além da parte técnica, também tenho vivência com **análise de requisitos**,
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
+<img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
@@ -84,17 +87,17 @@ Além da parte técnica, também tenho vivência com **análise de requisitos**,
 
 ## Sobre mim
 
-✨ Desenvolvedora Front-end com foco em **React, Next.js e TypeScript**  
+✨ Desenvolvedora Full Stack com base sólida em **React, Next.js e TypeScript**  
 <br>
-✨ Experiência na criação de **dashboards, telas de gestão e aplicações web responsivas**  
+✨ Experiência na criação de **aplicações web, dashboards e interfaces responsivas**  
 <br>
-✨ Atuação com **consumo de APIs REST**, tratamento de estados e componentização de interfaces  
+✨ Atuação com **APIs REST**, organização de código, componentização e estados de interface  
+<br>
+✨ Familiaridade com **Python, Node.js, SQL, bancos de dados e lógica de sistemas**  
 <br>
 ✨ Vivência com **análise de requisitos, regras de negócio e visão de produto**  
 <br>
-✨ Interesse por interfaces modernas, acessíveis, funcionais e bem estruturadas  
-<br>
-✨ Gosto de transformar ideias, fluxos e necessidades reais em experiências digitais claras e utilizáveis  
+✨ Gosto de transformar ideias, fluxos e necessidades reais em soluções digitais claras, funcionais e bem estruturadas  
 
 <br>
 
@@ -102,11 +105,13 @@ Além da parte técnica, também tenho vivência com **análise de requisitos**,
 
 💻 Aplicações web com React, Next.js e TypeScript  
 <br>
-📊 Dashboards administrativos e interfaces de gestão  
+📊 Dashboards administrativos e interfaces orientadas a dados  
 <br>
-🔗 Integrações com APIs REST  
+🔗 Integrações com APIs REST e serviços externos  
 <br>
 🧩 Componentes reutilizáveis e organização modular  
+<br>
+🗄️ Estruturas com banco de dados, consultas e lógica de sistemas  
 <br>
 🎨 Interfaces responsivas com atenção a UI/UX  
 <br>
@@ -114,35 +119,12 @@ Além da parte técnica, também tenho vivência com **análise de requisitos**,
 
 <br>
 
-## Projetos em destaque
-
-### Atlas Admin
-
-Dashboard administrativo simulando uma aplicação SaaS com autenticação, rotas protegidas, métricas, clientes, pedidos e configurações.
-
-**Tecnologias:** Next.js 15, React, TypeScript, Tailwind CSS, Zustand, React Hook Form e Zod.
-
-- Deploy: `https://dashboardadmin-kohl.vercel.app/login`
-- Repositório: `https://github.com/codesbyamanda/atlas-admin`
-
-<br>
-
-### BR Finance Dashboard
-
-Dashboard financeiro para visualização da Taxa SELIC, consumindo dados oficiais da API SGS do Banco Central do Brasil.
-
-**Tecnologias:** Next.js 15, React, TypeScript, Tailwind CSS e TanStack React Query.
-
-- Deploy: `https://financedashboardselic.vercel.app`
-- Repositório: `https://github.com/codesbyamanda/br-finance-dashboard`
-
-<br>
 
 ## Pequena observação
 
 Alguns projetos profissionais e freelances envolvem dados sensíveis, integrações externas ou regras de negócio específicas, por isso não ficam públicos aqui.
 
-Os repositórios disponíveis representam projetos demonstrativos, estudos aplicados e simulações desenvolvidas para apresentar minhas habilidades em desenvolvimento front-end, organização de código e construção de interfaces.
+Os repositórios disponíveis representam projetos demonstrativos, estudos aplicados e simulações desenvolvidas para apresentar minhas habilidades em desenvolvimento web, integração com APIs, organização de código, construção de interfaces e evolução em soluções full stack.
 
 <br>
 
